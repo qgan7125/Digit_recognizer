@@ -18,4 +18,4 @@ Convolutional Neural Network.
 CNN and KNN perform best.
 
 ## Report 
-For the complete report, please read [Final Report](./NFO_521.pdf).
+For the complete report, please read [Final Report](https://github.com/qgan7125/Digit_recognizer/blob/main/INFO_521.pdf).
